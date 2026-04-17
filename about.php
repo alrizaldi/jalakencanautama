@@ -207,19 +207,12 @@
         <div
           class="col-lg-5 col-md-6 col-sm-12 wow fadeIn"
           data-wow-delay=".3s">
-          <div class="h-100 position-relative">
-            <!-- <img
-                src="img/about-1.jpg"
+          <div class="h-100 text-center">
+            <img
+                src="img/logo-about.png"
                 class="img-fluid w-75 rounded"
                 alt=""
-                style="margin-bottom: 25%"
-              /> -->
-            <div class="position-absolute w-100" style="top: 0%; left: 0%">
-              <img
-                src="img/logo-about.png"
-                class="img-fluid w-100 rounded"
-                alt="" />
-            </div>
+                style="margin-bottom: 25%" />
           </div>
         </div>
         <div
